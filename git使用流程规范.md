@@ -4,7 +4,7 @@ Git flow分支管理策略是一种Git版本控制工作流（分支策略管理
 
 #### Git flow分支管理策略工作流如下：
 
-![](./img/git flow.png)
+![git flow](./img/git flow.png 'git flow')
 
 #### Git flow 分支说明
 
